@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uhmwpe-specialist-us.pages.dev/sitemap.xml
